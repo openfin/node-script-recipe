@@ -1,6 +1,6 @@
 #OpenFin Node.js Recipe
 
-Node.js Recipe demostrating basic OpenFin build integration, creating a script that: 
+Node.js Recipe demonstrating basic OpenFin build integration, creating a script that: 
 
 * Creates an OpenFin configuration file
 * Updates that configuration file with new values

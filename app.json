@@ -1,0 +1,18 @@
+{
+    "startup_app": {
+        "name": "staging_app",
+        "description": "OpenFin POC",
+        "url": "http://openfin.co",
+        "uuid": "myApp-0p1no77mvilcv7vi",
+        "autoShow": true
+    },
+    "runtime": {
+        "arguments": "",
+        "version": "stable"
+    },
+    "shortcut": {
+        "company": "OpenFin",
+        "description": "Openfin POC",
+        "name": "Openfin POC"
+    }
+}

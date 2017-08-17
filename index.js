@@ -21,7 +21,7 @@ function updateConfig() {
 
 function launchOpenfin () {
     return openfinLauncher.launchOpenFin({
-            configPath: 'file:/' + path.resolve('app.json')
+            configPath: path.resolve('app.json')
         });
 }
 

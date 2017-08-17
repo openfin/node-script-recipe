@@ -1,4 +1,4 @@
-#OpenFin Node.js Recipe
+# OpenFin Node.js Recipe
 
 Node.js Recipe demonstrating basic OpenFin build integration, creating a script that: 
 

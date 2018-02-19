@@ -55,3 +55,5 @@ $ node index.js
 ## License
 
 MIT
+
+By downloading OpenFin, you agree to the terms of our [Developer License](https://openfin.co/developer-agreement/)
